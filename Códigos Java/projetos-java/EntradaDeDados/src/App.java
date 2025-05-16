@@ -18,7 +18,7 @@ public class App {
 
         sum = number1 + number2; // soma os números, depois armazena o total em sum
 
-        System.out.printf("A soma é %d", sum); // exibe a soma
+        System.out.printf("A soma é %d\n", sum); // exibe a soma
 
     }
 }

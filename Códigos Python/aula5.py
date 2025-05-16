@@ -119,3 +119,4 @@ print("\n------------------\n")
 cliente1 = Cliente("Maria Oliveira", "maria@cliente.com", "cliente123", "Premium")
 print("Informações do Cliente:")
 cliente1.exibir_info()
+
